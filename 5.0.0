@@ -1,0 +1,8 @@
+com.evput.inform@0.0.1 D:\MobileApps\com.evput.inform
++-- @ionic/app-scripts@2.1.4
+| `-- node-sass@4.5.3
+|   `-- request@2.81.0
+|     `-- har-validator@4.2.1
+|       `-- ajv@4.11.8 
+`-- ajv@5.2.2 
+
